@@ -1,4 +1,7 @@
 # language: es
+# Test Automation backend for Tyba
+# Summary: This feature contains test cases for restful-booker rest api
+# EP Authentication is deployed in https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth
 
 Característica: Autenticación en el sitio restful-booker por restapi
 

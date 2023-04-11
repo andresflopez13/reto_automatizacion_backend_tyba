@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a71efb22-f43c-4bda-81b8-2159b95346e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tyba/reto/backend/model/UserAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tyba/reto/backend/tasks/AuthenticateIntoBackend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tyba/reto/backend/util/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tyba/reto/backend/runners/Authentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/tyba/reto/backend/stepdefinitions/AuthenticationDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/authentication.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/authentication.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/authentication.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681172327809</updated>
-      <workItem from="1681172329877" duration="2005000" />
+      <workItem from="1681172329877" duration="2295000" />
     </task>
     <servers />
   </component>
